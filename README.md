@@ -1,6 +1,6 @@
 # Spatial Data Analysis of Public Bus Transportation
 
-I am excited to share my latest project in the field of data analysis and geospatial insights. In this project, I conducted a comprehensive analysis of public bus transportation data to gain valuable insights into the efficiency and performance of the bus network in a major metropolitan area.
+In this project, I conducted a comprehensive analysis of public bus transportation data to gain valuable insights into the efficiency and performance of the bus network in a major metropolitan area.
 
 **Project Highlights:**
 
@@ -17,8 +17,6 @@ I am excited to share my latest project in the field of data analysis and geospa
 🔍 **Challenges Overcome:** During the project, I encountered challenges in handling large datasets and ensuring data accuracy. I successfully addressed these issues to obtain meaningful results.
 
 **Future Work:** This project is just the beginning. In the future, I plan to delve deeper into this dataset, exploring more advanced analytics, and developing predictive models to optimize public bus transportation.
-
-I invite you to explore the detailed project on GitHub for a closer look at the code and visualizations: [GitHub Project Link](YourGitHubProjectLink).
 
 If you have any questions, suggestions, or would like to collaborate on similar data analysis projects, please feel free to reach out. I am passionate about using data to drive improvements in public transportation and other areas.
 
